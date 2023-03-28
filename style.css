@@ -1,0 +1,50 @@
+/* @charset "UTF-*";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    background-color: gray;
+    width: 500px;
+    height: 400px;
+
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    padding-bottom: 100px;
+}
+
+#animacao {
+    background-color: aqua;
+    width: 460px;
+    height: 200px;
+
+    position: relative;
+    
+}
+
+#animacao {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#animacao {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    right: 20px;
+    bottom: 20px;
+} */
+
+* {
+    margin: 50px;
+}
